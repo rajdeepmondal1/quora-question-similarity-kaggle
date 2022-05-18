@@ -1,0 +1,13 @@
+# *.json
+*.jpg
+*.jpeg
+*.git
+*.key
+venv
+
+# Python stuff
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+.pytest_cache
