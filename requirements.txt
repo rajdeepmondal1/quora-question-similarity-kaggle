@@ -1,0 +1,5 @@
+requests==2.25.1
+tensorflow
+streamlit
+google_api_python_client==1.12.8
+protobuf==3.14.0
